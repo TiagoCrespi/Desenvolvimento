@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="10/20/2022 11:08:24 PM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="CDB-TIAGO"
+  DTS:CreatorName="CRESPI\tiago.crespi"
+  DTS:DTSID="{137FCA3F-F028-44CD-8D0F-C5112E1CC7E9}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="16.0.521.0"
+  DTS:LocaleID="1046"
+  DTS:ObjectName="Package1"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{7326C94E-D0D6-400B-BF0B-9975052DE3BF}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>
